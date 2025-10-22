@@ -1,6 +1,13 @@
 # cooperative
 Execute thread unsafe commands via a worker (namespace: `cooperative`)
 
+## list of commands
+
+|command|function name|
+|-|-|
+|`BACKUP`|backup|
+|`BACKUP INFO`|backupInfo|
+
 ## usage
 
 ```4d
