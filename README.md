@@ -17,8 +17,8 @@ Else
 	
 	ALERT(["current process"; "\""+$info.name+"\""; "is"; $info.preemptive ? "" : "not"; "preemptive"].join(" "))
 	
-	var $cooperative : cs.cooperative
-	$cooperative:=cs.cooperative.new()
+	var $cooperative : cs.cooperative.cooperative
+	$cooperative:=cs.cooperative.cooperative.new()
 	var $status : Object
 	
 	$status:=$cooperative.backup()
