@@ -1,0 +1,25 @@
+{
+	"_method_": {},
+	"cs.cooperative": {
+		"cooperative": {
+			"new()": {
+				"Syntax": "**.new**()",
+				"Params": [],
+				"Summary": ""
+			}
+		}
+	},
+	"cooperative": {
+		"backupInfo()": {
+			"Syntax": "**.backupInfo**() : Object",
+			"Params": [
+				[
+					"",
+					"Object",
+					"<-"
+				]
+			],
+			"Summary": ""
+		}
+	}
+}

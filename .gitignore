@@ -1,0 +1,5 @@
+cooperative/userPreferences.*
+cooperative/Project/DerivedData/*
+cooperative/Libraries/lib4d-arm64.dylib
+cooperative/backupHistory.json
+cooperative/Data/*
