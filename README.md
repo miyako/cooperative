@@ -15,6 +15,9 @@ Execute thread unsafe commands via a worker (namespace: `cooperative`)
 
 ## usage
 
+> [!NOTE]
+> [`Process info`](https://developer.4d.com/docs/commands/process-info) used below is not available in 4D 20 LTS
+
 ```4d
 #DECLARE($params : Object)
 
