@@ -1,2 +1,2 @@
 # cooperative
-Execute thread unsafe commands via a worker
+Execute thread unsafe commands via a worker (namespace: `cooperative`)
